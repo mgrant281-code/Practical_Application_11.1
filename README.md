@@ -7,15 +7,17 @@
 This project explores what determines the price of a used vehicle using a large dataset of over 426,000 used cars sourced from Kaggle. The goal is to identify the characteristics that most influence resale value and build a reliable pricing model that can support a used-car dealership’s inventory and pricing decisions.
 
 ## Repository Contents
-- vehicles.csv
+vehicles.7z
+> - vehicles.csv
 - CRISP-DM overview.pdf
-- vehicle_price_analysis.ipynb
+**- vehicle_price_analysis.ipynb**
 - README.ipynb
 - Executive_Summary.pdf
 - client_facing_narrative.pdf
-- Folder/images
-> - crisp.png
-> - kurt.jpeg
+- images.7z
+> - Folder/images
+>> - crisp.png
+>> - kurt.jpeg
 
 ## 1. Business Understanding
 Dealerships need to understand what features make a used car more valuable, which cars are worth acquiring, and how to price vehicles competitively.
@@ -58,7 +60,7 @@ Consumers value newer, low-mileage vehicles with reliable brands and desirable d
 
 ## 8. How to Run
 pip install numpy pandas scikit-learn matplotlib
-Place dataset and run notebook.ipynb
+Place dataset and run vehicle_price_analysis.ipynb
 
 ## 9. References
 Reference appendix included in notebook.
