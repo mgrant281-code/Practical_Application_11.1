@@ -9,7 +9,7 @@ This project explores what determines the price of a used vehicle using a large 
 ## Repository Contents
 vehicles.7z
 > - vehicles.csv
-- CRISP-DM overview.pdf
+- CRISP-DM overview.pdf <br>
 **- vehicle_price_analysis.ipynb**
 - README.ipynb
 - Executive_Summary.pdf
